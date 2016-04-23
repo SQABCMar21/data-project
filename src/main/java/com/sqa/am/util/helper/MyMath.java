@@ -8,7 +8,7 @@
  *
  */
 
-package com.sqa.jf.util.helpers;
+package com.sqa.am.util.helper;
 
 /**
  * MyMath //ADDD (description of class)
