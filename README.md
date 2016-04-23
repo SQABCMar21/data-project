@@ -1,1 +1,1 @@
-# advanced-project
+# basic-auto-project
