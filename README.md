@@ -1,6 +1,6 @@
-#### Advanced Automation Project
+### Advanced Automation Project
 
-### April 23, 2016
+#### April 23, 2016
 
 A Basic Automation Project Structure for Java Maven Projects which will include Helper methods to work with 2D Data objects.
 
@@ -9,7 +9,9 @@ A Basic Automation Project Structure for Java Maven Projects which will include 
 * Maven
 * TestNG
 * Selenium WebDriver
-* JDBJ
+* JDBD
+* MySQL
 * Apache POI
+* JSON
 
 [Jean-francois Nepton](http://sqasolution.com)
