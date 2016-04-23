@@ -1,1 +1,1 @@
-# advanced-project
+# general-project
