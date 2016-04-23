@@ -8,12 +8,11 @@
  *
  */
 
-package com.sqa.jf.util.helpers;
+package com.sqa.am.util.helper;
 
-import java.util.Scanner;
+import java.util.*;
 
-import com.sqa.jf.util.helpers.exceptions.InvalidAcceptableNumberException;
-import com.sqa.jf.util.helpers.exceptions.InvalidAcceptableWordException;
+import com.sqa.am.util.helper.exceptions.*;
 
 /**
  * RequestInput

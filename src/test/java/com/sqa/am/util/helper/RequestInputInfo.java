@@ -8,13 +8,9 @@
  *
  */
 
-package com.sqa.jf.util.helpers;
+package com.sqa.am.util.helper;
 
-import org.junit.After;
-import org.junit.AfterClass;
-import org.junit.Before;
-import org.junit.BeforeClass;
-import org.junit.Test;
+import org.testng.annotations.*;
 
 /**
  * RequestInputInfo //ADDD (description of class)
@@ -49,7 +45,7 @@ public class RequestInputInfo {
 	/**
 	 * @throws java.lang.Exception
 	 */
-	@Before
+	@BeforeMethod
 	public void setUp() throws Exception {
 		System.out.println("\tBefore Test Method");
 	}
@@ -57,7 +53,7 @@ public class RequestInputInfo {
 	/**
 	 * @throws java.lang.Exception
 	 */
-	@After
+	@AfterMethod
 	public void tearDown() throws Exception {
 		System.out.println("\tAfter Test Method");
 	}

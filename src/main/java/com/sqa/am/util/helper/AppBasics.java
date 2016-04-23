@@ -8,9 +8,9 @@
  *
  */
 
-package com.sqa.jf.util.helpers;
+package com.sqa.am.util.helper;
 
-import java.util.Scanner;
+import java.util.*;
 
 /**
  * AppBasics //ADDD (description of class)
